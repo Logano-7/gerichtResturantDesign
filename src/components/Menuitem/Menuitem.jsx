@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './MenuItem.css';
+import './Menuitem.css';
 
 const Menuitem = ({ title, price, tags }) => {
   return (
