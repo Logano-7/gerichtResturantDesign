@@ -15,3 +15,9 @@ $ npm install
 # Run the app
 $ npm run dev
 ```
+
+## You may also like...
+
+- [Logan's Logs](https://github.com/Logano-7/logsblogs) - A Full-Stack Blog with working authentication using Cookies. Displays Blog posts taken from a SQL Database.
+
+- [Hangman](https://github.com/Logano-7/hangmanTS) - A Hangman Game built with React in Typescript
