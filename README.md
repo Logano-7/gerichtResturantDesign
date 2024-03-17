@@ -17,7 +17,8 @@ $ npm run dev
 ```
 
 ## You may also like...
-
-- [Logan's Logs](https://github.com/Logano-7/logsblogs) - A Full-Stack Blog with working authentication using Cookies. Displays Blog posts taken from a SQL Database.
+- [SmallTalk](https://github.com/Logano-7/smalltalk) - A Full-Stack MERN Chat app with full authentication. Uses Context and local storage to navigate the user. 
 
 - [Hangman](https://github.com/Logano-7/hangmanTS) - A Hangman Game built with React in Typescript
+
+- [Logan's Logs](https://github.com/Logano-7/logsblogs) - A Full-Stack Blog with working authentication using Cookies. Displays Blog posts taken from a SQL Database.
